@@ -1,2 +1,3 @@
 # kushagraagrawal.github.io
-Personal website
+[Personal website](https://kushagraagrawal.github.io/)
+
